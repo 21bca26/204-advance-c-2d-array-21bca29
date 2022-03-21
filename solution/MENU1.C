@@ -65,9 +65,11 @@ void prime()
 		}
 	}
 	if(count==1)
-		printf("Enter number is prime:");
+		//printf("Enter number is prime:");
+		printf("Enter number is not prime");
 	else
-		printf("Enter number is not prime:");
+		//printf("Enter number is not prime:");
+		printf("Enter number is prime");
 }
 
 
